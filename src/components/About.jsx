@@ -14,14 +14,12 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          i am information system students i  learn different program language in order to develop my sofware
+     I am proficient in various programming languages such as HTML, CSS, JavaScript, and have experience working with popular frameworks like React and Angular.
         </p>
 
         <br />
 
-        <p className="text-xl">
-        i am information system students i  learn different program language in order to develop my sofware
-        </p>
+     
       </div>
     </div>
   );
