@@ -15,8 +15,17 @@ const Home = () => {
             I'm a information system student
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Iam a 3rd  year second semister student i have learned different program language i try to 
-            develop my website
+Bachelor of Science in Information Systems (2019-2023) 
+I have 3.57 CGPA.
+I have scored an average of 77 in National Exit Exam
+University Of  Gondar.
+Hardware Troubleshooting: Adept at diagnosing and resolving hardware issues, ensuring the optimal functionality of computer Systems.
+Network Troubleshooting: Experienced in identifying and rectifying network-related challenges, ensuring seamless connectivity and communication.
+Software Troubleshooting: Proficient in debugging software issues and providing effective solutions to enhance software performance.
+Computer Maintenance: Skilled in maintaining computer systems, implementing upgrades, and ensuring overall system efficiency.
+Programming Languages: Well in Java, C++, C#, Python, CSS, HTML, React JS, JavaScript, and Django REST framework. Capable of developing and implementing solutions across a range of programming languages.
+Microsoft Office suites: Expertise in utilizing MS Word, Excel, PowerPoint, and internet applications for efficient documentation and presentation.
+Database management system (Oracle & MySQL).
           </p>
 
           <div>
