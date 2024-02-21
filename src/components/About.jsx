@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
- Bachelor of Science in Information Systems (2019-2023) 
+Bachelor of Science in Information Systems (2019-2023) 
 I have 3.57 CGPA.
 I have scored an average of 77 in National Exit Exam
 University Of  Gondar.
