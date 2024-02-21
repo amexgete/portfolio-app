@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "amaregatie21@gmail.com",
+      href: "https://www.linkedin.com/in/amare-gatie-885415276/",
       style: "rounded-tr-md",
     },
     {
