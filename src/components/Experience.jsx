@@ -29,30 +29,22 @@ const Experience = () => {
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
-    {
+     "shadow-blue-600",
+    },{
       id: 4,
-      src: reactImage,
-      title: "React",
-      style: "shadow-blue-600",
-    },
-    {
-      id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
+      src: PHP,
+      title: "pHP",
+      style:
+    
+    
     {
       id: 6,
       src: nextjs,
       title: "Next JS",
       style: "shadow-white",
     },
-    {
-      id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
+    
+      
     {
       id: 8,
       src: github,
