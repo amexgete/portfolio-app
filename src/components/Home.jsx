@@ -17,13 +17,19 @@ I am Junior SoftWare Developer.
           <p className="text-gray-500 py-4 max-w-md">
 
 Hardware Troubleshooting
+            <br/>
 Network Troubleshooting
+              <br/>
 Software Troubleshooting
+              <br/>
 Computer Maintenance
+              <br/>
 Programming Languages: Well in Java, C++, C#,
   Python, CSS, HTML, React JS, JavaScript, 
 and Django REST framework
+              <br/>
 Microsoft Office suites
+              <br/>
 Database management system (Oracle & MySQL)
           </p>
 
