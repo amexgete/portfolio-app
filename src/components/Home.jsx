@@ -16,15 +16,15 @@ I am Junior SoftWare Developer.
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
 
-Hardware Troubleshooting: 
-Network Troubleshooting: 
-Software Troubleshooting: 
-Computer Maintenance: 
+Hardware Troubleshooting
+Network Troubleshooting
+Software Troubleshooting
+Computer Maintenance
 Programming Languages: Well in Java, C++, C#,
   Python, CSS, HTML, React JS, JavaScript, 
-and Django REST framework.
-Microsoft Office suites: 
-Database management system (Oracle & MySQL).
+and Django REST framework
+Microsoft Office suites
+Database management system (Oracle & MySQL)
           </p>
 
           <div>
