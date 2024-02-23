@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-Bachelor of Science in Information Systems (2019-2023) 
+<pre></pre>Bachelor of Science in Information Systems (2019-2023) 
 I have 3.57 CGPA.
 I have scored an average of 77 in National Exit Exam
 University Of  Gondar.
@@ -24,7 +24,7 @@ Software Troubleshooting:
 Computer Maintenance: 
 Programming Languages: Well in Java, C++, C#, Python, CSS, HTML, React JS, JavaScript, and Django REST framework. Capable of developing and implementing solutions across a range of programming languages.
 Microsoft Office suites: 
-Database management system (Oracle & MySQL).
+Database management system (Oracle & MySQL).<pre/>
         </p>
 
         <br />
