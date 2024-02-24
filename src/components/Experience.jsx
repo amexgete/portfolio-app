@@ -29,9 +29,6 @@ const Experience = () => {
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
-     "shadow-blue-600",
-    }
-  ,
     
     {
       id: 6,
