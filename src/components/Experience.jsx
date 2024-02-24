@@ -44,6 +44,12 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
+     {
+      id: 8,
+      src: reactImage,
+      title: "React",
+      style: "shadow-gray-400",
+    }
   ];
 
   return (
